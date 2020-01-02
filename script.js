@@ -8,13 +8,13 @@ window.onload = () => {
 
 function staticLoadPlaces() {
     return [{
-        name: 'Magnemite',
+        name: 'Pokèmon',
         location: {
-            lat: 48.869745,
-            lng: 2.307946,
-        }
+            // decomment the following and add coordinates:
+            lat: 48.833774,
+            lng: 2.265253,
+        },
     }, ];
-
 }
 
 var models = [{
